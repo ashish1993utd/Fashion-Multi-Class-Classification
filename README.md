@@ -1,1 +1,1 @@
-# Fashion-Multi-Class-Classification-Applied-Machine-Learningv
+# Fashion-Multi-Class-Classification-Applied-Machine-Learning
