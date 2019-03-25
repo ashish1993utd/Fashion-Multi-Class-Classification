@@ -1,4 +1,4 @@
-# Fashion-Multi-Class-Classification-Deep-Learning.
+# Fashion-Multi-Class-Classification-Deep-Learning
 
 - The Global Fashion Industry is valued at 3 trillion dollars and accounts for 2% for world's GDP
 
